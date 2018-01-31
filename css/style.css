@@ -1,5 +1,5 @@
 header {
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid #ddd;
     margin-bottom: 30px;
     background-color: white;
 }
@@ -13,14 +13,14 @@ header {
 }
 
 #name {
-    color: white;
+    color: #efeee7;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:30px;
-    border-left: solid 1px teal;
-    border-right: solid 1px teal;
-    border-bottom: solid 1px teal;
-    border-top: solid 1px teal;
-    background-color: teal;
+    border-left: solid 1px #4aaaa5;
+    border-right: solid 1px #4aaaa5;
+    border-bottom: solid 1px #4aaaa5;
+    border-top: solid 1px #4aaaa5;
+    background-color: #4aaaa5;
     padding: 20px 5px 20px 5px;
     font-weight: bold;
 }
@@ -32,24 +32,24 @@ header {
 
 #about {
     text-decoration: none;
-    color: grey;
+    color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    border-right: solid 1px grey;
+    border-right: solid 1px #ddd;
 }
 
 #portfolio {
-    color: grey;
+    color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    border-right: solid 1px grey;
+    border-right: solid 1px #ddd;
 }
 
 #contact {
-    color: grey;
+    color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    border-right: solid 1px grey;
+    border-right: solid 1px #ddd;
 }
 
 /* body css*/
@@ -62,7 +62,7 @@ header {
 
 #aboutme {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: brown;
+    color: #4aaaa5;
 }
 .aboutbox img{
     margin: auto;
@@ -80,19 +80,19 @@ margin: auto;
 
 
 .leftsection {
-    border:grey 2px solid;
+    border:#ddd 2px solid;
     padding-top: 30px;
 
 }
 
 .rightsection {
-    border:grey 2px solid;
+    border:#ddd 2px solid;
     margin-left: 5px;
 }
 
 #contactme{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: brown;
+    color: #4aaaa5;
     text-align: center;
 }
 
@@ -169,7 +169,7 @@ footer {
 
 #contactpage {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: brown;
+    color: #4aaaa5;
 }
 
 .messagebox {
