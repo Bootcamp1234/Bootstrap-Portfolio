@@ -1,0 +1,56 @@
+header {
+    padding-left: 195px;
+    padding-right: 195px;
+}
+
+nav {
+    border-bottom: 2px solid grey;
+}
+
+#name {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    border-left: solid 1px teal;
+    border-right: solid 1px teal;
+    border-bottom: solid 1px teal;
+    border-top: solid 1px teal;
+    background-color: teal;
+    padding: 20px 5px 20px 5px;
+    font-weight: bold;
+}
+
+#about {
+    text-decoration: none;
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-right: solid 1px grey;
+}
+
+#portfolio {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-right: solid 1px grey;
+}
+
+#contact {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-right: solid 1px grey;
+}
+
+.main {
+    width: 960px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+#aboutme {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}

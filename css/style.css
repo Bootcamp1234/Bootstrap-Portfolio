@@ -1,0 +1,220 @@
+header {
+    border-bottom: 2px solid grey;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+/* nav {
+    border-bottom: 2px solid grey;
+} */
+
+.background-header{ background-color:white;
+
+}
+
+#name {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    border-left: solid 1px teal;
+    border-right: solid 1px teal;
+    border-bottom: solid 1px teal;
+    border-top: solid 1px teal;
+    background-color: teal;
+    padding: 20px 5px 20px 5px;
+    font-weight: bold;
+}
+
+.backgroundimage {
+    /* background-color: rgb(235, 235, 235); */
+    background: url("../images/concrete.png");
+}
+
+#about {
+    text-decoration: none;
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-right: solid 1px grey;
+}
+
+#portfolio {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-right: solid 1px grey;
+}
+
+#contact {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-right: solid 1px grey;
+}
+
+/* body css*/
+
+.main {
+    /* width: 960px; */
+    padding-top: 10px;
+    /* border: solid 1px blue; */
+}
+
+#aboutme {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+.aboutbox img{
+    margin: auto;
+    float: left;
+}
+
+.aboutdescription {
+margin: auto;
+}
+
+#me{
+    height: 250px;
+    width: 150px;
+}
+
+
+.leftsection {
+    border:grey 2px solid;
+    padding-top: 30px;
+
+}
+
+.rightsection {
+    border:grey 2px solid;
+    margin-left: 5px;
+}
+
+#contactme{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: center;
+}
+
+#linkedin{
+    height: 80px;
+    margin-left: 5px;
+}
+
+#stackoverflow{
+    height: 80px;
+    margin-left: 5px;
+}
+
+#github{
+    height: 80px;
+    margin-left: 5px;
+}
+
+/* footer section*/
+
+footer {
+    color: #efeee7;
+    /* position: fixed; */
+    font-size: 16px;
+    padding: 10px;   
+    background-color: #333333;
+    border-top: 6px solid red;
+    position: sticky;
+    bottom:0;
+    text-align: center;
+}
+
+/* portfolio page */
+
+.bake {
+    margin-left: 80px
+}
+
+
+#cake{ height: 200px;
+    width: 200px;
+}
+
+.tech {
+    margin-left: 80px
+}
+
+#coding{
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+.world {
+    margin-left: 80px
+}
+
+#fly{
+    height: 200px;
+    width: 200px;
+}
+
+.nature {
+    margin-left: 80px
+}
+
+#outdoor{
+    height: 185px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+/* contact page */
+
+#contactpage {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+.messagebox {
+    margin: auto;
+}
+
+#firstlastname{
+
+}
+
+ 
+#contact-form ul {
+    margin-bottom: 20px;
+  }
+  
+  #contact-form li {
+    margin-bottom: 10px;
+  }
+  
+  label,
+  input[type=text],
+  input[type=email],
+  textarea {
+    display: block;
+    width: 100%;
+  }
+  
+  input[type=text],
+  input[type=email],
+  textarea {
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+  }
+  
+  textarea {
+    height: 200px;
+  }
+  
+  input[type=submit] {
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+  }
